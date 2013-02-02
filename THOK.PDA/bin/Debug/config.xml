@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Config>
+  <Connection>
+    <ConnectionString name="ConnectionString" value="server=10.66.64.57;database=thokwes;uid=sa;pwd=123456" />
+  </Connection>
+  <ConnetionType>
+    <Type name="Type" value="USB连接" />
+  </ConnetionType>
+</Config>
